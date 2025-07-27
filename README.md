@@ -1,1 +1,0 @@
-# gsocket-clone README
